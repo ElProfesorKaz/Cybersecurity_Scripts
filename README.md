@@ -32,38 +32,3 @@ ciberseguridad-scripts/
 └── utils/                    # Utilidades varias
     ├── password_generator.py
 
-A collection of Python scripts for cybersecurity learning, automation, and ethical hacking practice.
-# 🛡️ Cybersecurity Scripts
-
-Personal repository with **Python scripts** to learn, practice, and automate tasks related to **cybersecurity** and **data protection**.
-
-> ⚠️ **Disclaimer:** All scripts in this repository are for **educational and ethical use only**.  
-> They must be executed in controlled environments (labs, personal machines, or with explicit permission).  
-> Using these tools against unauthorized systems or networks may be illegal.
-
----
-
-## 📚 Purpose
-
-- Improve my **programming skills applied to cybersecurity**.
-- Build a **public portfolio** showcasing my progress in the Master's in Cybersecurity & Privacy (UOC).
-- Have a collection of **reusable tools** for audits, proof-of-concepts, and projects.
-
----
-
-## 📂 Repository Structure
-
-```bash
-cybersecurity-scripts/
-├── README.md                 # This document
-├── cryptography/             # Scripts for encryption, hashing, key management
-│   ├── hash_passwords.py
-│   ├── encrypt_decrypt_aes.py
-├── networking/               # Scripts for port scanning, sniffing, and basic network analysis
-│   ├── port_scanner.py
-│   ├── ping_sweep.py
-├── auditing/                 # Scripts for log parsing and sensitive data detection
-│   ├── log_parser.py
-│   ├── find_sensitive_data.py
-└── utils/                    # Miscellaneous utilities
-    ├── password_generator.py
